@@ -1,3 +1,5 @@
+[Meal Train Planning](meal-train.md)
+
 # Sample Blog Using Github Pages
 
 [Getting started with GitHub pages](https://pages.github.com/)
